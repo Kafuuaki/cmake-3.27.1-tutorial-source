@@ -11,6 +11,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.26.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeSystem.cmake"
+  "/Users/yejianqiu/Downloads/cmake-3.27.1-tutorial-source/Step1/TutorialConfig.h.in"
   "/opt/homebrew/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
@@ -42,6 +43,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "/Users/yejianqiu/Downloads/cmake-3.27.1-tutorial-source/Step1/TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
